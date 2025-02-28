@@ -9,7 +9,7 @@ In this exercise you will learn:
 * How to pass data from the vertex shader to the fragment shader using a varying.
 
 For this exercise you are going to write an OpenGL program from scratch to draw a simple shape, like this:
-  Haha I'm going to get you.
+
 ## Pencil and Paper
 
 As a graphics programmer you should always carry a pencil and paper. You can save yourself a lot of time by sketching your ideas before you begin coding them. In week 1, we provided you with a grid book and a pencil. If you didn't receive this last week, let your practical demonstrator know.
