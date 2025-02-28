@@ -8,7 +8,7 @@ In this exercise you will learn:
 * How to set per-vertex data using attribute buffers.
 * How to pass data from the vertex shader to the fragment shader using a varying.
 
-For this exercise you are going to write an OpenGL program from scratch to draw a simple shape, like this:
+For this exercise you are going to write an OpenGL program from scratch to draw a simple shape.
 
 ## Pencil and Paper
 
