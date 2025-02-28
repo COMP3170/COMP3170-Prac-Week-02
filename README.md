@@ -1,5 +1,13 @@
 # COMP3170 - Week 2: Your first LWJGL project
 
+## Learning Goals
+In this exercise you will learn:
+* To be familiar with the template code you will need to run graphics programs in Java using LWJGL.
+* How to think about shapes as meshes of triangles in 2D.
+* How to describe a mesh using a vertex buffer and index buffer.
+* How to set per-vertex data using attribute buffers.
+* How to pass data from the vertex shader to the fragment shader using a varying.
+
 For this exercise you are going to write an OpenGL program from scratch to draw a simple shape, like this:
   Haha I'm going to get you.
 ## Pencil and Paper
